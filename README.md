@@ -3,7 +3,8 @@ A re-useable open source version of an Queue Framework to be used as a code libr
 
 ## Requirements
 
-    And this is some more stuff
+    The requirements of the Queue Framework are organized into different versions, where each version 
+    builds on the previous one
     
 ### Generic requirements
 
