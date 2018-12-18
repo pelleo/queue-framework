@@ -7,7 +7,7 @@ namespace QueueLib
     {
         public PriorityQueue()
         {
-            Debug.WriteLine("PrioiotyQueue ctor");
+            Debug.WriteLine("PriorityQueue ctor");
         }
     }
 }
