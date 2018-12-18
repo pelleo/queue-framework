@@ -1,5 +1,6 @@
 # queue-framework
 A re-useable open source version of an Queue Framework to be used as a code library referenced from other projects.
+[![Build Status](https://dev.azure.com/pelleolsson/queue-framework/_apis/build/status/pelleo.queue-framework?branchName=master)](https://dev.azure.com/pelleolsson/queue-framework/_build/latest?definitionId=1?branchName=master)
 
 ## Requirements
 
