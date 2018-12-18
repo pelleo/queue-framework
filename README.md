@@ -47,6 +47,9 @@ Introduce additional abilities to the Persistant Queue:
 
 Add ability to Load Queue From Stream if not already available
 
+    For ideas and general discussions on queues vs. stream, please refer to 
+    https://streaml.io/blog/unified-queuing-streaming
+
 ## Version 3.0 - Additional Features
 
 Reliable Queue
